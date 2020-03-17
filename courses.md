@@ -2,7 +2,7 @@
 layout: page
 title: Courses
 subtitle: IIT Bombay
-image: /img/iitb.png
+image: /img/IITB.gif
 ---
 
 ### Materials Science
