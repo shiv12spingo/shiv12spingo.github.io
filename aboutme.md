@@ -10,7 +10,7 @@ Hello! I am Shivprasad Kathane, a Materials Science Undergraduate @ [IIT Bombay]
 Materials Science & Engineering, ML & AI, Management, Technopreneurship
 
 #### Hobbies
-Cricket, Bollywood Music & Movies, Reading novels & news articles, Travel & Photography
+Cricket, Music & Movies, Reading (novels & articles), Travel & Photography
 
 #### Past Education
 NTSE Scholar @ Delhi Public School Vadodara (CBSE)
