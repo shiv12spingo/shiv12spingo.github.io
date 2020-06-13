@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Courses
-subtitle: IIT Bombay
+subtitle: Indian Institute of Technology Bombay
 image: /img/IITB.gif
 ---
 
