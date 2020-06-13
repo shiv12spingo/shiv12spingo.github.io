@@ -12,6 +12,7 @@ image: /img/IITB.gif
 * [MM 204 - Transport Phenomena](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MM%20204)
 * [MM 209 - Thermodynamics of Materials](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MM%20209)
 * [MM 212 - Metallography and Structural Characterisation Lab](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MM%20212)
+* [AEASM1x - Introduction to Aerospace Structures and Materials](https://www.edx.org/course/introduction-to-aerospace-structures-and-materials)
 
 ### Mechanical Engineering
 * [ME 119 - Engineering Graphics and Drawing](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ME%20119)
@@ -28,6 +29,7 @@ image: /img/IITB.gif
 * [MM 217 - Data Analysis and Interpretation](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MM%20217)
 * [MM 220 - Computation Lab](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MM%20220)
 * [CS 419M - Introducing to Machine Learning](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CS%20419)
+* [CS50 AI - Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)
 
 ### Mathematics
 * [MA 105 - Calculus](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20105)
@@ -53,3 +55,4 @@ image: /img/IITB.gif
 * [HS 101 - Economics](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=HS%20101)
 * [ENT 201 - Introduction to Entrepreneurship](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ENT201)
 * [MG 401 - Marketing Management](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MG%20401)
+* [New Models for Business in Society](https://www.coursera.org/learn/uva-darden-business-society)
