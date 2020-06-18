@@ -13,6 +13,7 @@ image: /img/IITB.gif
 * [MM 209 - Thermodynamics of Materials](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MM%20209)
 * [MM 212 - Metallography and Structural Characterisation Lab](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MM%20212)
 * [AEASM1x - Introduction to Aerospace Structures and Materials](https://www.edx.org/course/introduction-to-aerospace-structures-and-materials)
+* [Materials Data Sciences and Informatics](https://www.coursera.org/learn/material-informatics)
 
 ### Mechanical Engineering
 * [ME 119 - Engineering Graphics and Drawing](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ME%20119)
