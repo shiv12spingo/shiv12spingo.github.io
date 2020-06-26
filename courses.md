@@ -29,8 +29,8 @@ image: /img/IITB.gif
 * [CS 101 - Computer Programming and Utilization](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CS%20101)
 * [MM 217 - Data Analysis and Interpretation](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MM%20217)
 * [MM 220 - Computation Lab](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MM%20220)
-* [CS 419M - Introducing to Machine Learning](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CS%20419)
 * [10xIIT - Python & OOP Concepts](https://10xiitian.ibhubs.co/track/programming-foundation)
+* [CS 419M - Introducing to Machine Learning](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CS%20419)
 * [CS50 AI - Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)
 
 ### Mathematics
