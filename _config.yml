@@ -27,7 +27,7 @@ navbar-links:
   Experience: "experience"
   Tech Blog: "techblog"
   Personal:
-    - Music & Movies: "entertainment"
+    - Music & Movies: "entertainment/"
     - Cricket: "cricket"
     - Travel & Photography: "photos"
   
