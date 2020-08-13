@@ -6,12 +6,16 @@ image: /img/IITB.gif
 ---
 
 ### Materials Science
-* [MM 152 - Materials & Technology](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MM%20152)
-* [MM 201 - Structure of Materials](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MM%20201)
+* [MM 152 - Materials & Technology](http://www.iitb.ac.in/mems/en/mm-152-materials-and-technology)
+* [MM 201 - Structure of Materials](http://www.iitb.ac.in/mems/en/mm-201-structure-materials)
 * [MM 203 - Mechanics of Materials](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MM%20203)
 * [MM 204 - Transport Phenomena](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MM%20204)
 * [MM 209 - Thermodynamics of Materials](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MM%20209)
 * [MM 212 - Metallography and Structural Characterisation Lab](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MM%20212)
+* [MM 305 - Kinetics of Processes](http://www.iitb.ac.in/mems/en/mm-305-kinetics-processes)
+* [MM 325 - Phase Transformations](http://www.iitb.ac.in/mems/en/mm-325-phase-transformations)
+* [MM 327 - Mechanical Behaviour of Materials](http://www.iitb.ac.in/mems/en/mm-319-mechanical-behaviour-metals)
+* [MM 474 - Science & Technology of Thin Films](http://www.iitb.ac.in/mems/en/mm-474-science-and-technology-thin-films)
 * [AEASM1x - Introduction to Aerospace Structures and Materials](https://www.edx.org/course/introduction-to-aerospace-structures-and-materials)
 * [Materials Data Sciences and Informatics](https://www.coursera.org/learn/material-informatics)
 
@@ -30,7 +34,8 @@ image: /img/IITB.gif
 * [MM 217 - Data Analysis and Interpretation](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MM%20217)
 * [MM 220 - Computation Lab](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MM%20220)
 * [10xIIT - Python & OOP Concepts](https://10xiitian.ibhubs.co/track/programming-foundation)
-* [CS 419M - Introducing to Machine Learning](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CS%20419)
+* [DS 203 - Programming for Data Science]()
+* [CS 419 - Introducing to Machine Learning](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CS%20419)
 * [CS50 AI - Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)
 
 ### Mathematics
@@ -55,6 +60,7 @@ image: /img/IITB.gif
 
 ### Others
 * [HS 101 - Economics](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=HS%20101)
+* [HS 301 - Introduction to Philosophy](http://www.hss.iitb.ac.in/en/hs-202-introduction-to-philosophy)
 * [ENT 201 - Introduction to Entrepreneurship](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ENT201)
 * [MG 401 - Marketing Management](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MG%20401)
 * [New Models for Business in Society](https://www.coursera.org/learn/uva-darden-business-society)
