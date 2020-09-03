@@ -8,10 +8,10 @@ image: /img/IITB.gif
 ### Materials Science
 * [MM 152 - Materials & Technology](http://www.iitb.ac.in/mems/en/mm-152-materials-and-technology)
 * [MM 201 - Structure of Materials](http://www.iitb.ac.in/mems/en/mm-201-structure-materials)
-* [MM 203 - Mechanics of Materials](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MM%20203)
-* [MM 204 - Transport Phenomena](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MM%20204)
-* [MM 209 - Thermodynamics of Materials](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MM%20209)
-* [MM 212 - Metallography and Structural Characterisation Lab](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MM%20212)
+* MM 203 - Mechanics of Materials
+* MM 204 - Transport Phenomena
+* MM 209 - Thermodynamics of Materials
+* MM 212 - Metallography and Structural Characterisation Lab
 * [MM 305 - Kinetics of Processes](http://www.iitb.ac.in/mems/en/mm-305-kinetics-processes)
 * [MM 325 - Phase Transformations](http://www.iitb.ac.in/mems/en/mm-325-phase-transformations)
 * [MM 327 - Mechanical Behaviour of Materials](http://www.iitb.ac.in/mems/en/mm-319-mechanical-behaviour-metals)
@@ -20,43 +20,43 @@ image: /img/IITB.gif
 * [Materials Data Sciences and Informatics](https://www.coursera.org/learn/material-informatics)
 
 ### Mechanical Engineering
-* [ME 119 - Engineering Graphics and Drawing](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ME%20119)
-* [ME 113 - Workshop Practice](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ME%20113)
-* [ME 220 - Theory of Machines and Machine Design](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ME%20220)
+* ME 119 - Engineering Graphics and Drawing
+* ME 113 - Workshop Practice
+* ME 220 - Theory of Machines and Machine Design
 
 ### Electrical Engineering
-* [EE 101 - Introduction to Electrical and Electronics Circuits](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=EE%20101)
-* [MM 215 - Experimental and Measurement Laboratory](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MM%20215)
-* [EE 209 - Electrical/Electronics Lab.](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=EE%20209)
+* EE 101 - Introduction to Electrical and Electronics Circuits
+* MM 215 - Experimental and Measurement Laboratory
+* EE 209 - Electrical/Electronics Lab.
 
 ### Computer Science
-* [CS 101 - Computer Programming and Utilization](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CS%20101)
-* [MM 217 - Data Analysis and Interpretation](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MM%20217)
-* [MM 220 - Computation Lab](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MM%20220)
+* CS 101 - Computer Programming and Utilization
+* MM 217 - Data Analysis and Interpretation
+* MM 220 - Computation Lab
 * [10xIIT - Python & OOP Concepts](https://10xiitian.ibhubs.co/track/programming-foundation)
-* [DS 203 - Programming for Data Science]()
-* [CS 419 - Introducing to Machine Learning](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CS%20419)
+* DS 203 - Programming for Data Science
+* CS 419 - Introducing to Machine Learning
 * [CS50 AI - Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)
 
 ### Mathematics
-* [MA 105 - Calculus](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20105)
-* [MA 106 - Linear Algebra](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20106)
-* [MA 108 - Ordinary Differential Equations](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20108)
-* [MA 214 - Numerical Analysis](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MA%20214)
+* MA 105 - Calculus
+* MA 106 - Linear Algebra
+* MA 108 - Ordinary Differential Equations
+* MA 214 - Numerical Analysis
 
 ### Physics
-* [PH 107 - Quantum Physics and Application](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=PH%20107)
-* [PH 108 - Basics of Electricity and Magnetism](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=PH%20108) 
-* [PH 117 - Physics Lab](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=PH%20117)
-* [PH 534 - Quantum Information and Computing](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=PH%20534)
+* PH 107 - Quantum Physics and Application
+* PH 108 - Basics of Electricity and Magnetism 
+* PH 117 - Physics Lab
+* PH 534 - Quantum Information and Computing
 
 ### Chemistry 
-* [CH 105 - Organic and Inorganic Chemistry](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CH%20105)
-* [CH 107 - Physical Chemistry](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CH%20107)
-* [CH 117 - Chemistry Lab](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=CH%20117)
+* CH 105 - Organic and Inorganic Chemistry
+* CH 107 - Physical Chemistry
+* CH 117 - Chemistry Lab
 
 ### Biosciences and Bioengineering
-* [BB 101 - Biology](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=BB%20101)
+* BB 101 - Biology
 
 ### Others
 * HS 101 - Economics
