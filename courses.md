@@ -59,9 +59,9 @@ image: /img/IITB.gif
 * [BB 101 - Biology](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=BB%20101)
 
 ### Others
-* [HS 101 - Economics](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=HS%20101)
+* HS 101 - Economics
 * [HS 301 - Introduction to Philosophy](http://www.hss.iitb.ac.in/en/hs-202-introduction-to-philosophy)
-* [ENT 201 - Introduction to Entrepreneurship](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ENT201)
-* [ENT 207 - Business Fundamentals for Entrepreneurs]
-* [MG 401 - Marketing Management](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=MG%20401)
+* ENT 201 - Introduction to Entrepreneurship
+* ENT 207 - Business Fundamentals for Entrepreneurs
+* MG 401 - Marketing Management
 * [New Models for Business in Society](https://www.coursera.org/learn/uva-darden-business-society)
