@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Academic:
     - Courses: "courses/"
-    - Projects: "projects"
+    - Projects: "projects/"
   Experience: "experience"
   Tech Blog: "techblog"
   Personal:
