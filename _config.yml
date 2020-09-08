@@ -24,7 +24,7 @@ navbar-links:
   Academic:
     - Courses: "courses/"
     - Projects: "projects/"
-  Experience: "experience"
+  Experience: "experience/"
   Tech Blog: "techblog"
   Personal:
     - Music & Movies: "entertainment/"
