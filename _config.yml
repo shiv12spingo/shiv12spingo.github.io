@@ -4,7 +4,7 @@
 title: Shivprasad Kathane
 
 # Short description of your site
-description: Materials Science Sophomore
+description: Materials Science Undergraduate
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -28,7 +28,7 @@ navbar-links:
   Tech Blog: "techblog"
   Personal:
     - Music & Movies: "entertainment/"
-    - Cricket: "cricket"
+    - Cricket: "https://www.iplt20.com/"
     - Travel & Photography: "photos"
   
     
