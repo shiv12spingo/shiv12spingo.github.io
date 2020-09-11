@@ -10,3 +10,4 @@ This project was done in a team as part of Term Paper Presentation for the cours
 ### Magnetic Materials
 ### Tabbing App
 ### Reusing Waste Milk Bags
+This was a group course project for MM152: Materials & Technology. We developed containers and a raincoat by reusing waste milk bags made of LDPE, a hydrophobic material. We used a hot air gun to melt the edges of cut-outs of plastic bag and simultaneously applied metal roller to join them. Thus the eco-friendly raincoat was developed at low cost by welding single layers of uniform pieces of these bags collected from hostel mess waste and its strength & water repulsion was successfully tested under a shower.  
