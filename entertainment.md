@@ -15,3 +15,12 @@ Lead Actor: Tom Cruise<br/>
 ![WAR](https://www.telugubulletin.com/wp-content/uploads/2019/10/WAR-hindi-movie-review-live-updates.jpg)<br/>
 Genre: Action/Thriller<br/>
 Lead Actor: Hrithik & Tiger
+
+## Top 10 songs on my current playlist!  
+
+#### 1. First Kiss
+By Yo Yo Honey Singh ft. Ipsitaa
+
+#### 2. Kamaal Hai
+By Badshah
+
