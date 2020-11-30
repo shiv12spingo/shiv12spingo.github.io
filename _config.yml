@@ -25,11 +25,11 @@ navbar-links:
     - Courses: "courses/"
     - Projects: "projects/"
   Experience: "experience/"
-  Tech Blog: "techblog"
-  Personal:
-    - Music & Movies: "entertainment/"
-    - Cricket: "https://www.cricbuzz.com/"
-    - Travel & Photography: "photos"
+  # Tech Blog: "techblog"
+  # Personal:
+   # - Music & Movies: "entertainment/"
+   # - Cricket: "https://www.cricbuzz.com/"
+   # - Travel & Photography: "photos"
   
     
 # Image to show in the navigation bar - image must be a square (width = height)
