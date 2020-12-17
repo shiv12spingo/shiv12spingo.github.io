@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 ### Terrorism: Data Analysis & Predictive Modelling
-This was a Data Science (DS203) course project done in pairs. After literature survey, we analysed the Global Terrorism Database with effective visualisations. Thereafter, we built predictive Machine Learning models using country-wise annual data from many sources on political, social and economic factors influencng terrorism.
+This was a Data Science (DS203) course project done in pairs. After literature survey, we analysed the Global Terrorism Database with effective visualisations. Thereafter, we built predictive Machine Learning models using country-wise annual data from other sources on political, social and economic factors influencng terrorism.
 ### Columbia Disaster & Learnings from Failure
 This was a Term Paper Project done in team as part of the course MM327: Mechanical Behaviour of Materials. We investigated why and how did the Space Shuttle Columbia disaster occur. We analysed the materials used in the structure and their functions. Specifically, I demonstrated how the failure analysis of materials was carried out and the conclusions derived from it. We highlighted the scientific, technical, engineering & administrative learnings from the failure of this mission. 
 ### Battery Cycle Life Prediction
