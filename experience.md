@@ -2,9 +2,9 @@
 layout: page
 title: Experiences
 ---
-### International Linkage Degree Program @ Hiroshima University
+### International Linkage Degree Program @ Hiroshima Univ
 Duration: Dec '20\
-Motivation: Get international exposure to communication & research on technologies to attain SDGs!
+Motivation: International exposure to communication & research on technologies to attain SDGs!
 ### Machine Learning Research Internship @ Coulomb AI
 Duration: July '20 - Aug '20\
 Motivation: Get some practical experience of ML in tech domain!
