@@ -17,11 +17,11 @@ image: /img/IITB.gif
 * [MM 320 - Process Metallurgy Principles](https://www.iitb.ac.in/mems/en/mm-320-principles-process-metallurgy)
 * [MM 322 - Casting & Joining Lab](https://www.iitb.ac.in/mems/en/mm-322-casting-and-joining-lab)
 * [MM 323 - Manufacturing Processes Laboratory](https://www.iitb.ac.in/mems/en/mm-322-manufacturing-process-lab)
-* MM 396 - Seminar
 * [MM 325 - Phase Transformations](http://www.iitb.ac.in/mems/en/mm-325-phase-transformations)
 * [MM 327 - Mechanical Behaviour of Materials](http://www.iitb.ac.in/mems/en/mm-319-mechanical-behaviour-metals)
 * [MM 357 - Ceramics & Powder Metallurgy](https://www.iitb.ac.in/mems/en/mm-357-ceramics-and-powder-metallurgy)
 * [MM 359 - Metal Casting & Joining](https://www.iitb.ac.in/mems/en/mm-359-metal-casting-and-joining)
+* MM 396 - Seminar
 * [MM 474 - Science & Technology of Thin Films](http://www.iitb.ac.in/mems/en/mm-474-science-and-technology-thin-films)
 * [AEASM1x - Introduction to Aerospace Structures and Materials](https://www.edx.org/course/introduction-to-aerospace-structures-and-materials)
 * [Materials Data Sciences and Informatics](https://www.coursera.org/learn/material-informatics)
