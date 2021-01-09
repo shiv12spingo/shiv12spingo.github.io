@@ -8,13 +8,20 @@ image: /img/IITB.gif
 ### Materials Science
 * [MM 152 - Materials & Technology](http://www.iitb.ac.in/mems/en/mm-152-materials-and-technology)
 * [MM 201 - Structure of Materials](http://www.iitb.ac.in/mems/en/mm-201-structure-materials)
-* MM 203 - Mechanics of Materials
-* MM 204 - Transport Phenomena
-* MM 209 - Thermodynamics of Materials
-* MM 212 - Metallography and Structural Characterisation Lab
+* [MM 203 - Mechanics of Materials](https://www.iitb.ac.in/mems/en/mm-203-mechanics-materials)
+* [MM 204 - Transport Phenomena](https://www.iitb.ac.in/mems/en/mm-204-transport-phenomena)
+* [MM 209 - Thermodynamics of Materials](https://www.iitb.ac.in/mems/en/mm-202-thermodynamics-materials)
+* [MM 212 - Metallography and Structural Characterisation Lab](https://www.iitb.ac.in/mems/en/mm-212-metallography-and-structural-characterization-lab)
 * [MM 305 - Kinetics of Processes](http://www.iitb.ac.in/mems/en/mm-305-kinetics-processes)
+* [MM 318 - Electronic Properties of Materials](https://www.iitb.ac.in/mems/en/mm-318-electronic-properties-metals)
+* [MM 320 - Process Metallurgy Principles](https://www.iitb.ac.in/mems/en/mm-320-principles-process-metallurgy)
+* [MM 322 - Casting & Joining Lab](https://www.iitb.ac.in/mems/en/mm-322-casting-and-joining-lab)
+* [MM 323 - Manufacturing Processes Laboratory](https://www.iitb.ac.in/mems/en/mm-322-manufacturing-process-lab)
+* MM 396 - Seminar
 * [MM 325 - Phase Transformations](http://www.iitb.ac.in/mems/en/mm-325-phase-transformations)
 * [MM 327 - Mechanical Behaviour of Materials](http://www.iitb.ac.in/mems/en/mm-319-mechanical-behaviour-metals)
+* [MM 357 - Ceramics & Powder Metallurgy](https://www.iitb.ac.in/mems/en/mm-357-ceramics-and-powder-metallurgy)
+* [MM 359 - Metal Casting & Joining](https://www.iitb.ac.in/mems/en/mm-359-metal-casting-and-joining)
 * [MM 474 - Science & Technology of Thin Films](http://www.iitb.ac.in/mems/en/mm-474-science-and-technology-thin-films)
 * [AEASM1x - Introduction to Aerospace Structures and Materials](https://www.edx.org/course/introduction-to-aerospace-structures-and-materials)
 * [Materials Data Sciences and Informatics](https://www.coursera.org/learn/material-informatics)
@@ -23,6 +30,7 @@ image: /img/IITB.gif
 * ME 119 - Engineering Graphics and Drawing
 * ME 113 - Workshop Practice
 * ME 220 - Theory of Machines and Machine Design
+* ME 604 - Introduction to Robotics
 
 ### Electrical Engineering
 * EE 101 - Introduction to Electrical and Electronics Circuits
@@ -64,4 +72,6 @@ image: /img/IITB.gif
 * ENT 201 - Introduction to Entrepreneurship
 * ENT 207 - Business Fundamentals for Entrepreneurs
 * MG 401 - Marketing Management
+* MG 405 - Project Management
+* CL 669 - Product Research & Development
 * [New Models for Business in Society](https://www.coursera.org/learn/uva-darden-business-society)
