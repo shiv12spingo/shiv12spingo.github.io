@@ -27,18 +27,18 @@ image: /img/IITB.gif
 * [Materials Data Sciences and Informatics](https://www.coursera.org/learn/material-informatics)
 
 ### Mechanical Engineering
-* ME 119 - Engineering Graphics and Drawing
-* ME 113 - Workshop Practice
-* ME 220 - Theory of Machines and Machine Design
+* ME 113 - Mechanical Workshop
+* ME 119 - Engineering Graphics & Drawing
+* ME 220 - Theory of Machines & Machine Design
 * ME 604 - Introduction to Robotics
 
 ### Electrical Engineering
-* EE 101 - Introduction to Electrical and Electronics Circuits
-* MM 215 - Experimental and Measurement Laboratory
-* EE 209 - Electrical/Electronics Lab.
+* EE 101 - Electrical & Electronics Circuits
+* MM 215 - Experimental & Measurement Lab
+* EE 209 - Electrical/Electronics Lab
 
 ### Computer Science
-* CS 101 - Computer Programming and Utilization
+* CS 101 - Computer Programming & Utilization
 * MM 217 - Data Analysis and Interpretation
 * MM 220 - Computation Lab
 * [10xIIT - Python & OOP Concepts](https://10xiitian.ibhubs.co/track/programming-foundation)
