@@ -11,7 +11,7 @@ image: /img/IITB.gif
 * [MM 203 - Mechanics of Materials](https://www.iitb.ac.in/mems/en/mm-203-mechanics-materials)
 * [MM 204 - Transport Phenomena](https://www.iitb.ac.in/mems/en/mm-204-transport-phenomena)
 * [MM 209 - Thermodynamics of Materials](https://www.iitb.ac.in/mems/en/mm-202-thermodynamics-materials)
-* [MM 212 - Metallography and Structural Characterisation Lab](https://www.iitb.ac.in/mems/en/mm-212-metallography-and-structural-characterization-lab)
+* [MM 212 - Metallography & Structural Characterisation Lab](https://www.iitb.ac.in/mems/en/mm-212-metallography-and-structural-characterization-lab)
 * [MM 305 - Kinetics of Processes](http://www.iitb.ac.in/mems/en/mm-305-kinetics-processes)
 * [MM 318 - Electronic Properties of Materials](https://www.iitb.ac.in/mems/en/mm-318-electronic-properties-metals)
 * [MM 320 - Process Metallurgy Principles](https://www.iitb.ac.in/mems/en/mm-320-principles-process-metallurgy)
