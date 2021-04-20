@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 ---
+### Smart Materials & Manufacturing 4.0
 ### Terrorism: Data Analysis & Predictive Modelling
 This was a Data Science (DS203) course project done in pairs. After literature survey, we analysed the Global Terrorism Database with effective visualisations. Thereafter, we built predictive Machine Learning models using country-wise annual data from other sources on political, social and economic factors influencng terrorism.
 ### Columbia Disaster & Learnings from Failure
