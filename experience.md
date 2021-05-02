@@ -2,6 +2,9 @@
 layout: page
 title: Experiences
 ---
+### Editor @ IIT Tech Ambit
+Duration: Jan '20 - Present\
+Motivation: To write and share stories on research, tech and business! 
 ### International Linkage Degree Program @ Hiroshima Univ
 Duration: Dec '20\
 Motivation: Get exposure to research and technologies for attaining SDGs!
