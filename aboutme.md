@@ -9,7 +9,7 @@ Hello! I am Shivprasad Kathane, a Third Year Undergraduate at [Indian Institute 
 #### Interests
 Materials Science & Engineering\
 Computational Science & Engineering\
-Product Research & Development\
+Product Research & Development
 
 #### Hobbies
 Cricket, Music & Movies, Travel & Photography
