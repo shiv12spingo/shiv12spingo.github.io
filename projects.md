@@ -3,6 +3,7 @@ layout: page
 title: Projects
 ---
 ### Smart Materials & Manufacturing 4.0
+As part of the Seminar course (MM396), I researched on the different types of smart materials and their relevance with Manufacturing 4.0 in focus. I developed an official report and delivered a presentation to my guide and the examiner.
 ### Terrorism: Data Analysis & Predictive Modelling
 This was a Data Science (DS203) course project done in pairs. After literature survey, we analysed the Global Terrorism Database with effective visualisations. Thereafter, we built predictive Machine Learning models using country-wise annual data from other sources on political, social and economic factors influencng terrorism.
 ### Columbia Disaster & Learnings from Failure
