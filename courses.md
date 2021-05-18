@@ -32,6 +32,7 @@ image: /img/IITB.gif
 * MA 214 - Numerical Analysis
 * MM 217 - Data Analysis & Interpretation
 * MM 220 - Computation Lab
+* [Problem Solving Using Computational Thinking](https://www.coursera.org/learn/compthinking)
 * [10xIIT - Python & OOP Concepts](https://10xiitian.ibhubs.co/track/programming-foundation)
 * DS 203 - Programming for Data Science
 * CS 419 - Introducing to Machine Learning
