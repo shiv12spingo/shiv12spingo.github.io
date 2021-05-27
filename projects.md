@@ -17,7 +17,7 @@ As part of Maths & Physics Club's Summer of Science, I researched on 2D Material
 ### Photoelasticity
 This project was done in a team as part of Term Paper Presentation for the course MM203: Mechanics of Materials. We analysed research papers on photoelasticity involving quantitative stress measurement, visualisation & interpretation. We explored concepts of birefringence, stress isoclinics & isochromatics and I specifically studied the types of stresses in glass. We delivered a presentation to explain it to our class and I demonstrated the specific application of photoelasticity to determine stresses in glass.
 ### High Energy Density Magnetic Materials
-As part of the In-Semester Undergraduate Research Project, I researched on rare-earth-free permanent magnet systems (particularly, Mn-Al-C and MnBi) with high energy densities. 
+As part of the In-Semester Undergraduate Research Project, I researched on rare-earth-free permanent magnet systems (Mn-Al-C and MnBi) with high energy densities. 
 ### Tabbing App
 As part of Web & Coding Club's Seasons of Code, I developed a web app for debate tournaments using Django framework (HTML+Python+CSS) in a team of 3 students. 
 ### Reusing Waste Milk Bags
