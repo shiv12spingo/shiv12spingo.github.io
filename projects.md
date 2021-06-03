@@ -11,7 +11,7 @@ This was a Term Paper Project done in team as part of the course MM327: Mechanic
 ### Battery Cycle Life Prediction
 Coulomb AI is a startup in Battery Data Intelligence. I learnt and developed machine learning models for predicting the battery (cycle) life as a ML research intern. 
 ### Hydrogen Storage Technologies
-As part of my internship at Airbus, I presented a comparative analysis of hydrogen storage materials for aviation, after going through research papers.
+As part of my summer internship at Airbus, I presented a comparative analysis of hydrogen storage materials for aviation, after going through research papers.
 ### 2D Materials
 As part of Maths & Physics Club's Summer of Science, I researched on 2D Materials with focus on graphene and energy storage and documented my study as a report. 
 ### Photoelasticity
