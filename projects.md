@@ -9,7 +9,7 @@ This was a Data Science (DS203) course project done in pairs. After literature s
 ### Columbia Disaster & Learnings from Failure
 This was a Term Paper Project done in team as part of the course MM327: Mechanical Behaviour of Materials. We investigated why and how did the Space Shuttle Columbia disaster occur. We analysed the materials used in the structure and their functions. Specifically, I demonstrated how the failure analysis of materials was carried out and the conclusions derived from it. We highlighted the learnings from this mission's failure. 
 ### Battery Cycle Life Prediction
-Coulomb AI is a startup in Battery Data Intelligence. I learnt and developed machine learning models for predicting the battery (cycle) life as an intern. 
+Coulomb AI is a startup in Battery Data Intelligence. I learnt and developed machine learning models for predicting the battery (cycle) life as a ML research intern. 
 ### Hydrogen Storage Technologies
 As part of my internship at Airbus, I presented a comparative analysis of hydrogen storage materials for aviation, after going through research papers.
 ### 2D Materials
