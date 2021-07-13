@@ -22,13 +22,13 @@ Duration: Apr '20 - May '20\
 Motivation: Study the fascinating 2D Materials and make lockdown productive!
 ### Team Member (Dynamics) @ Hyperloop IITB
 Duration: Feb '20 - Present\
-Motivation: Explore tech & research in future mobility and compete internationally!
+Motivation: Explore future mobility technology and compete internationally!
 ### In-Semester Undergraduate Research Program @ IITB
 Duration: Sep '19 - Jan '20\
-Motivation: Dive into Magnetic Materials and contribute in improving energy efficiency!
+Motivation: Dive into magnetic materials that help improve energy efficiency!
 ### Seasons of Code @ Web & Coding Club IITB
 Duration: May '19 - June '19\
-Motivation: Get some beginner hands-on experience in coding & web development!
+Motivation: Get some hands-on experience in coding & web development!
 ### Junior Design Engineer (Materials) @ Team Shunya IITB
 Duration: Feb '19 - Jan '20\
 Motivation: Contribute towards sustainability and get tech team experience!
