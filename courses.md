@@ -2,7 +2,6 @@
 layout: page
 title: Key Courses
 subtitle: Indian Institute of Technology Bombay
-image: /img/IITB.gif
 ---
 
 ### Materials Science
