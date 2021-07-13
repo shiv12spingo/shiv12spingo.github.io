@@ -20,7 +20,7 @@ Motivation: Get an overview of what kind of work a consultant does!
 ### Summer of Science @ Maths & Physics Club IITB
 Duration: Apr '20 - May '20\
 Motivation: Study the fascinating 2D Materials and make lockdown productive!
-### Team Member (Dynamics) @ Hyperloop IITB
+### Design Engineer (Dynamics) @ Hyperloop IITB
 Duration: Feb '20 - Present\
 Motivation: Explore future mobility technology and compete internationally!
 ### In-Semester Undergraduate Research Program @ IITB
