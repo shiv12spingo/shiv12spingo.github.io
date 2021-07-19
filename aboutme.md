@@ -15,5 +15,5 @@ Product Research & Development
 Cricket, Reading & Writing, Music & Movies, Travel & Photography
 
 #### Past Education
-Secondary (2010-2018) - Delhi Public School Vadodara (CBSE)
+Secondary (2010-2018) - Delhi Public School Vadodara (CBSE)\
 Primary (2003-2010) - Coast Guard Public School Daman (CBSE)
