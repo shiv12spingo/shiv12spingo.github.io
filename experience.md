@@ -3,7 +3,7 @@ layout: page
 title: Experiences
 ---
 ### IITB Editorial Head @ IIT Tech Ambit
-Duration: Dec '20 - Apr '21\
+Duration: Jan '21 - Present\
 Motivation: To write and share stories on science, tech and business! 
 ### International Linkage Degree Program @ Hiroshima Univ
 Duration: Dec '20\
