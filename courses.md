@@ -24,7 +24,7 @@ subtitle: Indian Institute of Technology Bombay
 * [MM 359 - Metal Casting & Joining](https://www.iitb.ac.in/mems/en/mm-359-metal-casting-and-joining)
 * [MM 362 - Mechanical Testing Lab](https://www.iitb.ac.in/mems/en/mm-362-mech-testing-lab)
 * MM 435 - Instrumentation & Controls Lab
-* MM 439 - Iron and Steel Making
+* MM 439 - Iron & Steel Making
 * [MM 451 - Instrumentation & Process Control Theory](https://www.iitb.ac.in/mems/en/mm-451-instrumentation-and-process-control-theory)
 * [MM 453 - Engineering Polymers & Composites](https://www.iitb.ac.in/mems/en/mm-453-engg-polymers-composites-materials)
 * [MM 474 - Science & Technology of Thin Films](http://www.iitb.ac.in/mems/en/mm-474-science-and-technology-thin-films)
