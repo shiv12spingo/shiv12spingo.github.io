@@ -4,14 +4,14 @@ title: Key Courses
 subtitle: Indian Institute of Technology Bombay
 ---
 
-### Materials Science
+### Materials Science and Engineering
 * [MM 152 - Materials & Technology](http://www.iitb.ac.in/mems/en/mm-152-materials-and-technology)
 * [MM 201 - Structure of Materials](http://www.iitb.ac.in/mems/en/mm-201-structure-materials)
 * [MM 203 - Mechanics of Materials](https://www.iitb.ac.in/mems/en/mm-203-mechanics-materials)
 * [MM 204 - Transport Phenomena](https://www.iitb.ac.in/mems/en/mm-204-transport-phenomena)
 * [MM 209 - Thermodynamics of Materials](https://www.iitb.ac.in/mems/en/mm-202-thermodynamics-materials)
 * [MM 212 - Metallography & Structural Characterisation Lab](https://www.iitb.ac.in/mems/en/mm-212-metallography-and-structural-characterization-lab)
-* MM 215 - Experimental & Measurement Lab
+* [MM 215 - Experimental & Measurement Lab](https://www.iitb.ac.in/mems/en/mm-215-experimentation-and-measurement-lab)
 * ME 220 - Theory of Machines & Machine Design
 * [MM 305 - Kinetics of Processes](http://www.iitb.ac.in/mems/en/mm-305-kinetics-processes)
 * [MM 318 - Electronic Properties of Materials](https://www.iitb.ac.in/mems/en/mm-318-electronic-properties-metals)
@@ -22,11 +22,16 @@ subtitle: Indian Institute of Technology Bombay
 * [MM 327 - Mechanical Behaviour of Materials](http://www.iitb.ac.in/mems/en/mm-319-mechanical-behaviour-metals)
 * [MM 357 - Ceramics & Powder Metallurgy](https://www.iitb.ac.in/mems/en/mm-357-ceramics-and-powder-metallurgy)
 * [MM 359 - Metal Casting & Joining](https://www.iitb.ac.in/mems/en/mm-359-metal-casting-and-joining)
+* [MM 362 - Mechanical Testing Lab](https://www.iitb.ac.in/mems/en/mm-362-mech-testing-lab)
+* MM 435 - Instrumentation and Controls Lab
+* MM 439 - Iron and Steel Making
+* [MM 451 - Instrumentation and Process Control Theory](https://www.iitb.ac.in/mems/en/mm-451-instrumentation-and-process-control-theory)
+* [MM 453 - Engineering Polymers and Composites](https://www.iitb.ac.in/mems/en/mm-453-engg-polymers-composites-materials)
 * [MM 474 - Science & Technology of Thin Films](http://www.iitb.ac.in/mems/en/mm-474-science-and-technology-thin-films)
 * [AEASM1x - Introduction to Aerospace Structures & Materials](https://www.edx.org/course/introduction-to-aerospace-structures-and-materials)
 * [Materials Data Sciences & Informatics](https://www.coursera.org/learn/material-informatics)
 
-### Computational Science
+### Computational Science and Engineering
 * CS 101 - Computer Programming & Utilization
 * MA 214 - Numerical Analysis
 * MM 217 - Data Analysis & Interpretation
@@ -35,6 +40,7 @@ subtitle: Indian Institute of Technology Bombay
 * [10xIIT - Python & OOP Concepts](https://10xiitian.ibhubs.co/track/programming-foundation)
 * DS 203 - Programming for Data Science
 * CS 419 - Introducing to Machine Learning
+* [IE 643 - Deep Learning - Theory and Practice](https://www.ieor.iitb.ac.in/acad/courses/ie643)
 * PH 534 - Quantum Information & Computing
 * ME 604 - Introduction to Robotics
 
