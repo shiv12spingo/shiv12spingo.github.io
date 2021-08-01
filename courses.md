@@ -40,7 +40,7 @@ subtitle: Indian Institute of Technology Bombay
 * [10xIIT - Python & OOP Concepts](https://10xiitian.ibhubs.co/track/programming-foundation)
 * DS 203 - Programming for Data Science
 * CS 419 - Introducing to Machine Learning
-* [IE 643 - Deep Learning - Theory and Practice](https://www.ieor.iitb.ac.in/acad/courses/ie643)
+* [IE 643 - Deep Learning - Theory & Practice](https://www.ieor.iitb.ac.in/acad/courses/ie643)
 * PH 534 - Quantum Information & Computing
 * ME 604 - Introduction to Robotics
 
