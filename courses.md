@@ -34,8 +34,8 @@ subtitle: Indian Institute of Technology Bombay
 ### Computational Science and Engineering
 * CS 101 - Computer Programming & Utilization
 * MA 214 - Numerical Analysis
-* MM 217 - Data Analysis & Interpretation
-* MM 220 - Computation Lab
+* [MM 217 - Data Analysis & Interpretation](https://www.iitb.ac.in/mems/en/mm-217-data-analysis-and-interpretation)
+* [MM 220 - Computation Lab](https://www.iitb.ac.in/mems/en/mm-220-computation-lab)
 * [Problem Solving Using Computational Thinking](https://www.coursera.org/learn/compthinking)
 * [10xIIT - Python & OOP Concepts](https://10xiitian.ibhubs.co/track/programming-foundation)
 * DS 203 - Programming for Data Science
