@@ -4,7 +4,7 @@ title: Key Courses
 subtitle: Indian Institute of Technology Bombay
 ---
 
-### Materials Science and Engineering
+### Materials Science & Engineering
 * [MM 152 - Materials & Technology](http://www.iitb.ac.in/mems/en/mm-152-materials-and-technology)
 * [MM 201 - Structure of Materials](http://www.iitb.ac.in/mems/en/mm-201-structure-materials)
 * [MM 203 - Mechanics of Materials](https://www.iitb.ac.in/mems/en/mm-203-mechanics-materials)
@@ -31,7 +31,7 @@ subtitle: Indian Institute of Technology Bombay
 * [AEASM1x - Introduction to Aerospace Structures & Materials](https://www.edx.org/course/introduction-to-aerospace-structures-and-materials)
 * [Materials Data Sciences & Informatics](https://www.coursera.org/learn/material-informatics)
 
-### Computational Science and Engineering
+### Computational Science & Engineering
 * CS 101 - Computer Programming & Utilization
 * MA 214 - Numerical Analysis
 * [MM 217 - Data Analysis & Interpretation](https://www.iitb.ac.in/mems/en/mm-217-data-analysis-and-interpretation)
