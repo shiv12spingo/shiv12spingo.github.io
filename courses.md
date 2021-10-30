@@ -40,9 +40,9 @@ subtitle: Indian Institute of Technology Bombay
 * [10xIIT - Python & OOP Concepts](https://10xiitian.ibhubs.co/track/programming-foundation)
 * DS 203 - Programming for Data Science
 * CS 419 - Introducing to Machine Learning
-* [IE 609 - Mathematical Optimisation Techniques](https://www.ieor.iitb.ac.in/acad/courses/ie609)
 * PH 534 - Quantum Information & Computing
 * ME 604 - Introduction to Robotics
+* [IE 609 - Mathematical Optimisation Techniques](https://www.ieor.iitb.ac.in/acad/courses/ie609)
 
 ### Others
 * HS 101 - Economics
