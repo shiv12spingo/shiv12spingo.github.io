@@ -41,7 +41,6 @@ subtitle: Indian Institute of Technology Bombay
 * DS 203 - Programming for Data Science
 * CS 419 - Introducing to Machine Learning
 * [IE 609 - Mathematical Optimisation Techniques](https://www.ieor.iitb.ac.in/acad/courses/ie609)
-* [IE 643 - Deep Learning - Theory & Practice](https://www.ieor.iitb.ac.in/acad/courses/ie643)
 * PH 534 - Quantum Information & Computing
 * ME 604 - Introduction to Robotics
 
