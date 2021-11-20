@@ -46,7 +46,7 @@ subtitle: Indian Institute of Technology Bombay
 
 ### Others
 * HS 101 - Economics
-* [HS 301 - Introduction to Philosophy](http://www.hss.iitb.ac.in/en/hs-202-introduction-to-philosophy)
+* [HS 301 - Philosophy](http://www.hss.iitb.ac.in/en/hs-202-introduction-to-philosophy)
 * ENT 201 - Introduction to Entrepreneurship
 * ENT 207 - Business Fundamentals for Technopreneurs
 * [New Models for Business in Society](https://www.coursera.org/learn/uva-darden-business-society)
