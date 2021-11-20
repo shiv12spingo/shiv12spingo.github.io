@@ -31,7 +31,7 @@ subtitle: Indian Institute of Technology Bombay
 * [AEASM1x - Introduction to Aerospace Structures & Materials](https://www.edx.org/course/introduction-to-aerospace-structures-and-materials)
 * [Materials Data Sciences & Informatics](https://www.coursera.org/learn/material-informatics)
 
-### Computational Engineering & Data Science
+### Computational & Data Science
 * CS 101 - Computer Programming & Utilization
 * MA 214 - Numerical Analysis
 * [MM 217 - Data Analysis & Interpretation](https://www.iitb.ac.in/mems/en/mm-217-data-analysis-and-interpretation)
