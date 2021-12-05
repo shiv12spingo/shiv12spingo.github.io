@@ -25,6 +25,8 @@ navbar-links:
     - Courses: "courses/"
     - Projects: "projects/"
   Experience: "experience/"
+  Resumes:
+    - AI & Data Science: "/files/AIDS.pdf"
   # Tech Blog: "techblog"
   # Personal:
    # - Music & Movies: "entertainment/"
