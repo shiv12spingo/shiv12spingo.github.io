@@ -39,6 +39,7 @@ subtitle: Indian Institute of Technology Bombay
 * [Problem Solving Using Computational Thinking](https://www.coursera.org/learn/compthinking)
 * [10xIIT - Python & OOP Concepts](https://10xiitian.ibhubs.co/track/programming-foundation)
 * DS 203 - Programming for Data Science
+* [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)
 * CS 419 - Introducing to Machine Learning
 * PH 534 - Quantum Information & Computing
 * ME 604 - Introduction to Robotics
