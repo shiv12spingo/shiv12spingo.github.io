@@ -4,7 +4,7 @@ title: Entertainment
 image: /img/movie.jpeg
 ---
 
-## Recent movies watched in theatre
+## Recent movies watched in theatre</br>
 
 #### 1. No Time To Die
 ![007](https://user-images.githubusercontent.com/50674138/146722800-a347af98-220e-454f-92f4-e9fd19154e52.png)<br/>
