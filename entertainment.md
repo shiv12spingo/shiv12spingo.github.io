@@ -1,24 +1,20 @@
 ---
 layout: page
-title: Music & Movies
+title: Entertainment
 image: /img/movie.jpeg
 ---
 
-## My Top 10 favourite movies of the decade!  
-#### 1. Mission Impossible: Fallout
-![MI](https://upload.wikimedia.org/wikipedia/en/f/ff/MI_%E2%80%93_Fallout.jpg)<br/>
-Genre: Action/Thriller<br/>
-Lead Actor: Tom Cruise<br/>
+## Recent movies watched in theatre
+#### 1. No Time to Die
+![007](https://images.app.goo.gl/V9e3mNEueqP4Goc6A)<br/>
 
-#### 2. WAR
-![WAR](https://www.telugubulletin.com/wp-content/uploads/2019/10/WAR-hindi-movie-review-live-updates.jpg)<br/>
-Genre: Action/Thriller<br/>
-Lead Actor: Hrithik & Tiger
+#### 2. Bell Bottom
+![BB](https://images.app.goo.gl/LBsqWX7TagnEN41z9)<br/>
 
-## Top 10 songs on my current playlist!  
-#### 1. First Kiss
-By Yo Yo Honey Singh ft. Ipsitaa
+3. TENET
+4. Tanhaji
 
-#### 2. Kamaal Hai
-By Badshah
-
+## Recent non-academic books read
+1. 'Nightshade' by Anthony Horowitz
+2. 'The Sentinel' by Lee Child
+3. 'Dark Matter' by Blake Crouch
