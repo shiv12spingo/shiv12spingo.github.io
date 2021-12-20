@@ -4,8 +4,8 @@ title: Entertainment
 image: /img/movie.jpeg
 ---
 
-## Recent movies watched in theatre
-<br/>
+## Recent movies watched in theatre  
+
 #### 1. No Time To Die
 ![007](https://user-images.githubusercontent.com/50674138/146722800-a347af98-220e-454f-92f4-e9fd19154e52.png)<br/>
 
@@ -18,8 +18,8 @@ image: /img/movie.jpeg
 #### 4. Tanhaji
 ![TJ](https://user-images.githubusercontent.com/50674138/146723341-5663d99c-4b6f-4131-bb53-65205ae5f761.png)<br/>
 <br/>
-## Recent non-academic books read
-<br/>
+## Recent non-academic books read  
+
 #### 1. 'Nightshade' by Anthony Horowitz
 ![NS](https://user-images.githubusercontent.com/50674138/146724383-bcda93da-408b-4d68-a40f-a0bbce2f3f24.png)<br/>
 
