@@ -32,18 +32,18 @@ subtitle: Indian Institute of Technology Bombay
 * [Materials Data Sciences & Informatics](https://www.coursera.org/learn/material-informatics)
 
 ### Computational & Data Science
-* CS 101 - Computer Programming & Utilization
-* MA 214 - Numerical Analysis
-* [MM 217 - Data Analysis & Interpretation](https://www.iitb.ac.in/mems/en/mm-217-data-analysis-and-interpretation)
-* [MM 220 - Computation Lab](https://www.iitb.ac.in/mems/en/mm-220-computation-lab)
-* [Problem Solving Using Computational Thinking](https://www.coursera.org/learn/compthinking)
-* [10xIIT - Python & OOP Concepts](https://10xiitian.ibhubs.co/track/programming-foundation)
-* DS 203 - Programming for Data Science
-* [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)
-* CS 419 - Introducing to Machine Learning
-* PH 534 - Quantum Information & Computing
-* ME 604 - Introduction to Robotics
-* [IE 609 - Mathematical Optimisation Techniques](https://www.ieor.iitb.ac.in/acad/courses/ie609)
+* [Problem Solving Using Computational Thinking](https://www.coursera.org/learn/compthinking) (Theory)
+* CS 101 - Computer Programming & Utilization (C++)
+* [10xIIT - Python & OOP Concepts](https://10xiitian.ibhubs.co/track/programming-foundation) (Python)
+* MA 214 - Numerical Analysis (Theory)
+* [MM 220 - Computation Lab](https://www.iitb.ac.in/mems/en/mm-220-computation-lab) (Python & Matlab)
+* [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) (VS Code)
+* [MM 217 - Data Analysis & Interpretation](https://www.iitb.ac.in/mems/en/mm-217-data-analysis-and-interpretation) (R Studio)
+* DS 203 - Programming for Data Science (Colab)
+* CS 419 - Introducing to Machine Learning (Theory)
+* PH 534 - Quantum Information & Computing (Theory)
+* ME 604 - Introduction to Robotics (Matlab)
+* [IE 609 - Mathematical Optimisation Techniques](https://www.ieor.iitb.ac.in/acad/courses/ie609) (Scilab)
 
 ### Others
 * HS 101 - Economics
