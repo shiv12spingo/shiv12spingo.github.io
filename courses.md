@@ -48,6 +48,7 @@ subtitle: Indian Institute of Technology Bombay
 ### Others
 * HS 101 - Economics
 * HS 301 - Philosophy
+* HS/ES 200 - Environmental Studies, Science & Engineering
 * ENT 201 - Introduction to Entrepreneurship
 * ENT 207 - Business Fundamentals for Technopreneurs
 * [New Models for Business in Society](https://www.coursera.org/learn/uva-darden-business-society)
