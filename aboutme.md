@@ -8,8 +8,7 @@ Hello! I am Shivprasad Kathane, a Fourth Year Undergraduate at [Indian Institute
 
 #### Interests
 Materials Science & Engineering\
-Computational & Data Science\
-Product Research & Development
+Computational & Data Science
 
 #### Past Education
 Secondary (2010-2018) - Delhi Public School Vadodara (CBSE)\
