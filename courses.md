@@ -23,10 +23,14 @@ subtitle: Indian Institute of Technology Bombay
 * [MM 357 - Ceramics & Powder Metallurgy](https://www.iitb.ac.in/mems/en/mm-357-ceramics-and-powder-metallurgy)
 * [MM 359 - Metal Casting & Joining](https://www.iitb.ac.in/mems/en/mm-359-metal-casting-and-joining)
 * [MM 362 - Mechanical Testing Lab](https://www.iitb.ac.in/mems/en/mm-362-mech-testing-lab)
+* [MM 396 - Seminar](https://www.iitb.ac.in/mems/en/mm-396-seminar)
+* [MM 406 - Semiconductor Devices & Processing](https://www.iitb.ac.in/mems/en/mm-406-semiconductor-devices-and-processing)
+* [MM 433 - Manufacturing Processes Seminar](https://www.iitb.ac.in/mems/en/mm-433-manufacturing-processes-seminar)
 * MM 435 - Instrumentation & Controls Lab
 * MM 439 - Iron & Steel Making
 * [MM 451 - Instrumentation & Process Control Theory](https://www.iitb.ac.in/mems/en/mm-451-instrumentation-and-process-control-theory)
 * [MM 453 - Engineering Polymers & Composites](https://www.iitb.ac.in/mems/en/mm-453-engg-polymers-composites-materials)
+* MM 454 - Corrosion & Protection of Materials
 * [MM 474 - Science & Technology of Thin Films](http://www.iitb.ac.in/mems/en/mm-474-science-and-technology-thin-films)
 * [AEASM1x - Introduction to Aerospace Structures & Materials](https://www.edx.org/course/introduction-to-aerospace-structures-and-materials)
 * [Materials Data Sciences & Informatics](https://www.coursera.org/learn/material-informatics)
