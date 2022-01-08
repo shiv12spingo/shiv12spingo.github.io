@@ -25,6 +25,7 @@ subtitle: Indian Institute of Technology Bombay
 * [MM 362 - Mechanical Testing Lab](https://www.iitb.ac.in/mems/en/mm-362-mech-testing-lab)
 * [MM 396 - Seminar](https://www.iitb.ac.in/mems/en/mm-396-seminar)
 * [MM 406 - Semiconductor Devices & Processing](https://www.iitb.ac.in/mems/en/mm-406-semiconductor-devices-and-processing)
+* [MM 426 - Equipment and Processes Design Lab](https://www.iitb.ac.in/mems/en/mm-426-equipment-and-process-design-lab)
 * [MM 433 - Manufacturing Processes Seminar](https://www.iitb.ac.in/mems/en/mm-433-manufacturing-processes-seminar)
 * MM 435 - Instrumentation & Controls Lab
 * MM 439 - Iron & Steel Making
@@ -48,6 +49,7 @@ subtitle: Indian Institute of Technology Bombay
 * PH 534 - Quantum Information & Computing (Theory)
 * ME 604 - Introduction to Robotics (Matlab)
 * [IE 609 - Mathematical Optimisation Techniques](https://www.ieor.iitb.ac.in/acad/courses/ie609) (Scilab)
+* ME 789 - Computational Tools for Process Modeling
 
 ### Others
 * HS 101 - Economics
