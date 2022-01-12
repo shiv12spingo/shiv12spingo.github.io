@@ -58,4 +58,5 @@ subtitle: Indian Institute of Technology Bombay
 * [New Models for Business in Society](https://www.coursera.org/learn/uva-darden-business-society)
 * MG 401 - Marketing Management
 * MG 405 - Project Management
+* MG 406 - Operations Management
 * CL 669 - Product Research & Development
