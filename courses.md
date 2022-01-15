@@ -49,7 +49,7 @@ subtitle: Indian Institute of Technology Bombay
 * PH 534 - Quantum Information & Computing (Theory)
 * ME 604 - Introduction to Robotics (Matlab)
 * [IE 609 - Mathematical Optimisation Techniques](https://www.ieor.iitb.ac.in/acad/courses/ie609) (Scilab)
-* ME 789 - Computational Tools for Process Modeling
+* ME 789 - Computational Tools for Process Modeling (Colab)
 
 ### Others
 * HS 101 - Economics
