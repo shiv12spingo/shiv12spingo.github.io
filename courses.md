@@ -14,6 +14,7 @@ subtitle: Indian Institute of Technology Bombay
 * [MM 215 - Experimental & Measurement Lab](https://www.iitb.ac.in/mems/en/mm-215-experimentation-and-measurement-lab)
 * ME 220 - Theory of Machines & Machine Design
 * [MM 305 - Kinetics of Processes](http://www.iitb.ac.in/mems/en/mm-305-kinetics-processes)
+* [MM 312 - Heat Treatment Lab](https://www.iitb.ac.in/mems/en/mm-312-heat-treatment-lab)
 * [MM 318 - Electronic Properties of Materials](https://www.iitb.ac.in/mems/en/mm-318-electronic-properties-metals)
 * [MM 320 - Process Metallurgy Principles](https://www.iitb.ac.in/mems/en/mm-320-principles-process-metallurgy)
 * [MM 322 - Casting & Joining Lab](https://www.iitb.ac.in/mems/en/mm-322-casting-and-joining-lab)
@@ -29,6 +30,7 @@ subtitle: Indian Institute of Technology Bombay
 * [MM 433 - Manufacturing Processes Seminar](https://www.iitb.ac.in/mems/en/mm-433-manufacturing-processes-seminar)
 * MM 435 - Instrumentation & Controls Lab
 * MM 439 - Iron & Steel Making
+* [MM 448 - Thin Films Lab](https://www.iitb.ac.in/mems/en/mm-448-thin-films-lab)
 * [MM 451 - Instrumentation & Process Control Theory](https://www.iitb.ac.in/mems/en/mm-451-instrumentation-and-process-control-theory)
 * [MM 453 - Engineering Polymers & Composites](https://www.iitb.ac.in/mems/en/mm-453-engg-polymers-composites-materials)
 * MM 454 - Corrosion & Protection of Materials
