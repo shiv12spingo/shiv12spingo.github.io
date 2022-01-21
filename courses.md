@@ -34,6 +34,7 @@ subtitle: Indian Institute of Technology Bombay
 * [MM 451 - Instrumentation & Process Control Theory](https://www.iitb.ac.in/mems/en/mm-451-instrumentation-and-process-control-theory)
 * [MM 453 - Engineering Polymers & Composites](https://www.iitb.ac.in/mems/en/mm-453-engg-polymers-composites-materials)
 * MM 454 - Corrosion & Protection of Materials
+* [MM 462 - Corrosion & Protection Lab](https://www.iitb.ac.in/mems/en/mm-462-corrosion-and-protection-lab)
 * [MM 474 - Science & Technology of Thin Films](http://www.iitb.ac.in/mems/en/mm-474-science-and-technology-thin-films)
 * [AEASM1x - Introduction to Aerospace Structures & Materials](https://www.edx.org/course/introduction-to-aerospace-structures-and-materials)
 * [Materials Data Sciences & Informatics](https://www.coursera.org/learn/material-informatics)
