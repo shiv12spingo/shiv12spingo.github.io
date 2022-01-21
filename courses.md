@@ -37,16 +37,16 @@ subtitle: Indian Institute of Technology Bombay
 * [MM 462 - Corrosion & Protection Lab](https://www.iitb.ac.in/mems/en/mm-462-corrosion-and-protection-lab)
 * [MM 474 - Science & Technology of Thin Films](http://www.iitb.ac.in/mems/en/mm-474-science-and-technology-thin-films)
 * [AEASM1x - Introduction to Aerospace Structures & Materials](https://www.edx.org/course/introduction-to-aerospace-structures-and-materials)
-* [Materials Data Sciences & Informatics](https://www.coursera.org/learn/material-informatics)
 
 ### Computational & Data Science
-* Informatics Practices (2 years @ DPS Vadodara: Netbeans + MySQL)
+* Informatics Practices (2 years @ DPSV: Netbeans + MySQL)
 * [Problem Solving Using Computational Thinking](https://www.coursera.org/learn/compthinking) (Theory)
 * CS 101 - Computer Programming & Utilization (C++)
 * [10xIIT - Python & OOP Concepts](https://10xiitian.ibhubs.co/track/programming-foundation) (Python)
 * MA 214 - Numerical Analysis (Theory)
 * [MM 220 - Computation Lab](https://www.iitb.ac.in/mems/en/mm-220-computation-lab) (Python & Matlab)
 * [MM 217 - Data Analysis & Interpretation](https://www.iitb.ac.in/mems/en/mm-217-data-analysis-and-interpretation) (R Studio)
+* [Materials Data Sciences & Informatics](https://www.coursera.org/learn/material-informatics)
 * DS 203 - Programming for Data Science (Colab)
 * [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) (VS Code)
 * CS 419 - Introducing to Machine Learning (Theory)
