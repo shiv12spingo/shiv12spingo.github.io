@@ -46,7 +46,7 @@ subtitle: Indian Institute of Technology Bombay
 * MA 214 - Numerical Analysis (Theory)
 * [MM 220 - Computation Lab](https://www.iitb.ac.in/mems/en/mm-220-computation-lab) (Python & Matlab)
 * [MM 217 - Data Analysis & Interpretation](https://www.iitb.ac.in/mems/en/mm-217-data-analysis-and-interpretation) (R Studio)
-* [Materials Data Sciences & Informatics](https://www.coursera.org/learn/material-informatics)
+* [Materials Data Sciences & Informatics](https://www.coursera.org/learn/material-informatics) (Theory)
 * DS 203 - Programming for Data Science (Colab)
 * [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) (VS Code)
 * CS 419 - Introducing to Machine Learning (Theory)
