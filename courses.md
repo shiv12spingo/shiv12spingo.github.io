@@ -40,6 +40,7 @@ subtitle: Indian Institute of Technology Bombay
 * [Materials Data Sciences & Informatics](https://www.coursera.org/learn/material-informatics)
 
 ### Computational & Data Science
+* Informatics Practices (2 years @ DPS Vadodara: Netbeans + MySQL)
 * [Problem Solving Using Computational Thinking](https://www.coursera.org/learn/compthinking) (Theory)
 * CS 101 - Computer Programming & Utilization (C++)
 * [10xIIT - Python & OOP Concepts](https://10xiitian.ibhubs.co/track/programming-foundation) (Python)
