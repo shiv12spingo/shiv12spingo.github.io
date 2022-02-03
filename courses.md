@@ -40,10 +40,13 @@ subtitle: Indian Institute of Technology Bombay
 
 ### Computational & Data Science
 * Informatics Practices (2 years @ DPSV)
+* MA 105 - Calculus
+* MA 106 - Linear Algebra
+* MA 108 - Differential Equations
+* MA 214 - Numerical Analysis
 * [Problem Solving Using Computational Thinking](https://www.coursera.org/learn/compthinking)
 * CS 101 - Computer Programming & Utilization
 * [10xIIT - Python & OOP Concepts](https://10xiitian.ibhubs.co/track/programming-foundation)
-* MA 214 - Numerical Analysis
 * [MM 220 - Computation Lab](https://www.iitb.ac.in/mems/en/mm-220-computation-lab)
 * [MM 217 - Data Analysis & Interpretation](https://www.iitb.ac.in/mems/en/mm-217-data-analysis-and-interpretation)
 * [Materials Data Sciences & Informatics](https://www.coursera.org/learn/material-informatics)
