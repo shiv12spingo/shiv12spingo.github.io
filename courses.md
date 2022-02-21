@@ -59,7 +59,8 @@ subtitle: Indian Institute of Technology Bombay
 * ME 789 - Computational Tools for Process Modeling
 
 ### Others
-* HS 101 - Economics
+* HS 101 - Introduction to Economics
+* HS 200 - Environmental Studies, Science & Engineering
 * ENT 201 - Introduction to Entrepreneurship
 * ENT 207 - Business Fundamentals for Technopreneurs
 * [New Models for Business in Society](https://www.coursera.org/learn/uva-darden-business-society)
