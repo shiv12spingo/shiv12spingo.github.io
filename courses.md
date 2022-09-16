@@ -54,6 +54,7 @@ subtitle: Indian Institute of Technology Bombay
 * PH 534 - Quantum Information & Computing
 * ME 604 - Introduction to Robotics
 * [IE 609 - Mathematical Optimisation Techniques](https://www.ieor.iitb.ac.in/acad/courses/ie609)
+* [IE 643 - Deep Learning: Theory & Practice](https://www.ieor.iitb.ac.in/acad/courses/ie643)
 * ME 789 - Computational Tools for Process Modeling
 
 ### Others
@@ -63,6 +64,7 @@ subtitle: Indian Institute of Technology Bombay
 * ENT 207 - Business Fundamentals for Technopreneurs
 * [New Models for Business in Society](https://www.coursera.org/learn/uva-darden-business-society)
 * MG 401 - Marketing Management
+* MG 403 - Accounting & Finance
 * MG 405 - Project Management
 * MG 406 - Operations Management
 * CL 669 - Product Research & Development
