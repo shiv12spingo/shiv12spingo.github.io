@@ -4,6 +4,27 @@ title: Key Courses
 subtitle: Indian Institute of Technology Bombay
 ---
 
+### Computational & Data Science
+* Informatics Practices (2 years @ DPSV)
+* MA 105 - Calculus
+* MA 106 - Linear Algebra
+* MA 108 - Differential Equations
+* MA 214 - Numerical Analysis
+* [Problem Solving Using Computational Thinking](https://www.coursera.org/learn/compthinking)
+* CS 101 - Computer Programming & Utilization
+* [10xIIT - Python & OOP Concepts](https://10xiitian.ibhubs.co/track/programming-foundation)
+* [MM 220 - Computation Lab](https://www.iitb.ac.in/mems/en/mm-220-computation-lab)
+* [MM 217 - Data Analysis & Interpretation](https://www.iitb.ac.in/mems/en/mm-217-data-analysis-and-interpretation)
+* [Materials Data Sciences & Informatics](https://www.coursera.org/learn/material-informatics)
+* DS 203 - Programming for Data Science
+* [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)
+* CS 419 - Introducing to Machine Learning
+* PH 534 - Quantum Information & Computing
+* ME 604 - Introduction to Robotics
+* [IE 609 - Mathematical Optimisation Techniques](https://www.ieor.iitb.ac.in/acad/courses/ie609)
+* [IE 643 - Deep Learning: Theory & Practice](https://www.ieor.iitb.ac.in/acad/courses/ie643)
+* ME 789 - Computational Tools for Process Modeling
+
 ### Materials Science & Engineering
 * [MM 152 - Materials & Technology](http://www.iitb.ac.in/mems/en/mm-152-materials-and-technology)
 * [MM 201 - Structure of Materials](http://www.iitb.ac.in/mems/en/mm-201-structure-materials)
@@ -35,27 +56,6 @@ subtitle: Indian Institute of Technology Bombay
 * [MM 462 - Corrosion & Protection Lab](https://www.iitb.ac.in/mems/en/mm-462-corrosion-and-protection-lab)
 * [MM 474 - Science & Technology of Thin Films](http://www.iitb.ac.in/mems/en/mm-474-science-and-technology-thin-films)
 * [AEASM1x - Introduction to Aerospace Structures & Materials](https://www.edx.org/course/introduction-to-aerospace-structures-and-materials)
-
-### Computational & Data Science
-* Informatics Practices (2 years @ DPSV)
-* MA 105 - Calculus
-* MA 106 - Linear Algebra
-* MA 108 - Differential Equations
-* MA 214 - Numerical Analysis
-* [Problem Solving Using Computational Thinking](https://www.coursera.org/learn/compthinking)
-* CS 101 - Computer Programming & Utilization
-* [10xIIT - Python & OOP Concepts](https://10xiitian.ibhubs.co/track/programming-foundation)
-* [MM 220 - Computation Lab](https://www.iitb.ac.in/mems/en/mm-220-computation-lab)
-* [MM 217 - Data Analysis & Interpretation](https://www.iitb.ac.in/mems/en/mm-217-data-analysis-and-interpretation)
-* [Materials Data Sciences & Informatics](https://www.coursera.org/learn/material-informatics)
-* DS 203 - Programming for Data Science
-* [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)
-* CS 419 - Introducing to Machine Learning
-* PH 534 - Quantum Information & Computing
-* ME 604 - Introduction to Robotics
-* [IE 609 - Mathematical Optimisation Techniques](https://www.ieor.iitb.ac.in/acad/courses/ie609)
-* [IE 643 - Deep Learning: Theory & Practice](https://www.ieor.iitb.ac.in/acad/courses/ie643)
-* ME 789 - Computational Tools for Process Modeling
 
 ### Others
 * HS 101 - Introduction to Economics
