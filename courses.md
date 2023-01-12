@@ -23,7 +23,9 @@ subtitle: Indian Institute of Technology Bombay
 * ME 604 - Introduction to Robotics
 * [IE 609 - Mathematical Optimisation Techniques](https://www.ieor.iitb.ac.in/acad/courses/ie609)
 * [IE 643 - Deep Learning: Theory & Practice](https://www.ieor.iitb.ac.in/acad/courses/ie643)
+* [CS 772 - DL for Natural Language Processing](https://www.cse.iitb.ac.in/~cs772/2023/)
 * ME 789 - Computational Tools for Process Modeling
+* ME 793 - Multiscale Materials Informatics, Discovery & Design
 
 ### Materials Science & Engineering
 * [MM 152 - Materials & Technology](http://www.iitb.ac.in/mems/en/mm-152-materials-and-technology)
@@ -64,6 +66,7 @@ subtitle: Indian Institute of Technology Bombay
 * ENT 207 - Business Fundamentals for Technopreneurs
 * [New Models for Business in Society](https://www.coursera.org/learn/uva-darden-business-society)
 * MG 401 - Marketing Management
+* MG 402 - Human Resource Management
 * MG 403 - Accounting & Finance
 * MG 405 - Project Management
 * MG 406 - Operations Management
