@@ -26,10 +26,9 @@ navbar-links:
     - Projects: "projects/"
   Experience: "experience/"
   Resumes:
-    - AI & Data Science (2 Pg): "files/AIDS.pdf"
+    - AI & Data Science (2 Pg): #"files/AIDS.pdf"
     - Materials Science (2 Pg):
     - Non-Technical (1 Pg):
-    - Complete CV (3 Pg):
   # Tech Blog: "techblog"
   # Personal:
     #- Entertainment: "entertainment/"
