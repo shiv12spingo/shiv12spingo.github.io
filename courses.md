@@ -15,7 +15,7 @@ subtitle: Indian Institute of Technology Bombay
 * [10xIIT - Python & OOP Concepts](https://10xiitian.ibhubs.co/track/programming-foundation)
 * [MM 220 - Computation Lab](https://www.iitb.ac.in/mems/en/mm-220-computation-lab)
 * [MM 217 - Data Analysis & Interpretation](https://www.iitb.ac.in/mems/en/mm-217-data-analysis-and-interpretation)
-* [Materials Data Sciences & Informatics](https://www.coursera.org/learn/material-informatics)
+* [10xIIT - Elementary Data Structures & Algorithms](https://10xiitian.ibhubs.co/track/programming-foundation)
 * DS 203 - Programming for Data Science
 * [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)
 * CS 419 - Introducing to Machine Learning
@@ -25,6 +25,7 @@ subtitle: Indian Institute of Technology Bombay
 * [IE 643 - Deep Learning: Theory & Practice](https://www.ieor.iitb.ac.in/acad/courses/ie643)
 * [CS 772 - DL for Natural Language Processing](https://www.cse.iitb.ac.in/~cs772/2023/)
 * ME 789 - Computational Tools for Process Modeling
+* [Materials Data Sciences & Informatics](https://www.coursera.org/learn/material-informatics)
 * ME 793 - Multiscale Materials Informatics, Discovery & Design
 
 ### Materials Science & Engineering
