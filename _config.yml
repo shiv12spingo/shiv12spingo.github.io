@@ -23,8 +23,8 @@ navbar-links:
   #About Me: "aboutme"
   Academic:
     - Courses: "courses/"
-    - AIDS Portfolio:
-    - MSE Portfolio:
+    - AIDS Portfolio: "aids/"
+    - MEMS Portfolio: "mems/"
   Experience: "experience/"
   Resumes:
     - AI & Data Science: "files/Shivprasad_Resume_18May.pdf"
