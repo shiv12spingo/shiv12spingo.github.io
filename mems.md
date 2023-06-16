@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project Portfolio
+title: Projects
 subtitle: Material Science & Engineering
 ---
 ### Smart Materials & Manufacturing 4.0 (Seminar Project)
