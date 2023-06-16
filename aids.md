@@ -1,6 +1,7 @@
 ---
 layout: page
-subtitle: AI & Data Science Portfolio
+title: Project Portfolio
+subtitle: AI & Data Science
 ---
 The [Inter IIT Tech Meet 11.0](https://www.linkedin.com/company/10th-inter-iit-tech-meet/) (an annual technology competition among the IITs) was held during 10-12 Feb 2023 and I was part of the Bombay76 (IITB) contingent as a member of 'The Vital Extraction Challenge' healthcare problem statement by Cloudphysician. This problem required us to ideate and implement an AI-based approach to extract the values and graphs of the vitals such as Heart Rate, Respiratory Rate etc. from images containing ICU monitor screens. Our team of 8 students emerged victorious and we won Gold as our solution stood out amongst all the IITs with emphasis on the accuracy of the info extracted by our model, inference time of the pipeline and novelty of approach. One of the most important highlight for me was how we solved different components of a fresh problem and put together a winning solution in just a couple of weeks as a team! You can view our presentation below.
 <iframe src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFZ-rpEaI8&#x2F;view?embed" frameborder="0" width="700" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
