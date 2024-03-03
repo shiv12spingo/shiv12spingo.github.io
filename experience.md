@@ -42,6 +42,9 @@ Motivation: Study the fascinating 2D Materials and make lockdown productive!
 #### Senior Design Engineer (Dynamics) @ Hyperloop IITB
 Duration: Feb '20 - Jan '21\
 Motivation: Explore future mobility technology and compete internationally!
+#### Events Coordinator @ Entrepreneurship & Business Club
+Duration: Apr '19 - Feb '20\
+Motivation: Promote and encourage entrepreneurship among the masses!
 #### In-Semester Undergraduate Research Program @ IITB
 Duration: Sep '19 - Jan '20\
 Motivation: Dive into magnetic materials that help improve energy efficiency!
