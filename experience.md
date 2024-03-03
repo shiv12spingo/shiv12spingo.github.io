@@ -4,13 +4,16 @@ title: Experiences
 ---
 
 ### Work Experience
+
 #### Associate Data Analyst @ IDFC FIRST Bank, Mumbai
 Duration: Jul '23 - Present\
 Motivation: Solving business problems using Data Science in the financial capital of India!
 #### Research Assistant @ C-MInDS, IIT Bombay
 Duration: May '22 - Jun '23\
 Motivation: Taking the initiative to perform novel interdisciplinary research in AI!
+
 ### Internships
+
 #### AI/ML Project Assistant @ Godrej & Boyce
 Duration: May '22 - Jul '22\
 Motivation: Working on real industry-level AI R&D project!
@@ -23,13 +26,16 @@ Motivation: Get some practical experience of ML in tech domain!
 #### Technology Scouting Internship @ AIRBUS
 Duration: July '20 - Aug '20\
 Motivation: Contribute to technology development for aerospace to achieve net-zero goals!
+
 ### Teaching/Mentoring/Volunteering
 - Soft Skills Mentoring (2024), Lend-A-Shoulder Volunteering Program, IDFC FIRST Bank x Anudip Foundation
 - Teaching Assitant (2023), Mathematics Department at IITB, Course: *Differential Equations*
 - Mentor (2022), Seasons of Code at Web n Coding Club IITB, Project: *CNN-Based Stock Market Prediction*
 - Mentor (2022), Summer of Science at Maths n Physics Club IITB, Topic: *Data Science*
 - Volunteer (2018-19), Sustainable Social Development at National Service Scheme IITB
+
 ### Others
+
 #### Editor @ IIT Tech Ambit
 Duration: Jan '21 - Dec '21\
 Motivation: To write and share stories on science, tech and business! 
