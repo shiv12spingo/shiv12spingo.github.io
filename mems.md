@@ -11,7 +11,7 @@ As part of the Seminar course, I researched on the different types of smart mate
 Interested in knowing how a smartphone is manufactured? As part of the manufacturing process seminar course, our team investigated the process of smartphone manufacturing and created the below presentation.
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS62mnVTXSddhLxPzLr4K7L5G7xOAclgk1JXrMD9k5eU_iVNnt3YeR4ui0NDPR91mrXPmhQILbWVvtC/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-### Term Paper Presentation on Columbia Space Shuttle Disaster
+### Term Paper PPT on Columbia Space Shuttle Disaster
 Curious why the Columbia Space Shuttle disaster occured? Our team puts on the hats of materials scientists to investigate this disaster which is a crucial failure case study relevant to the field of materials science. I go in-depth into the failure analysis which was performed to identify the root cause. You can view the entire presentation below.
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSKuGfirkcAD_TL_IXtgTNn-u7MyV8rUSZ1gdH8f-aIXCIzbh9GJ41ItJuEUOskIQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
