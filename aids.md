@@ -11,3 +11,6 @@ I had contested for the position of Head of the [Data Analytics and Visualisatio
 
 As part of the course 'Programming for Data Science' at IITB, I had done a project on 'Application of Machine Learning to predict Terrorism from politico-socio-economic indicators' in Nov 2020. You can view the project report, datafiles, code notebooks [here](https://github.com/shiv12spingo/DS203_Project_TML). I had also presented this work at the Virtual Research Symposium by Students (VRSS) conducted by the IITB's Undergraduate Academic Council (UGAC) in Feb 2021. You can view the presentation below.
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRJUHNuRiQtITzM1FE9F7kHpqeAC93XNmWy0NVDcofyieLSCw6gUyeG4obD3tNkaw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+As part of the course 'Multiscale Materials Informatics, Discovery & Design', I worked in a team on a ML project 'Yield Prediction in Semiconductor Manufacturing'. The final presentation is embedded below.
+<iframe src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFcsjRt35s&#x2F;L423d18gbds_awVPkJ0Jnw&#x2F;view?embed" frameborder="0" width="700" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
