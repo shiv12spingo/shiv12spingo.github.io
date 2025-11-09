@@ -3,11 +3,18 @@ layout: page
 title: Experiences
 ---
 
-### Work Experience
+## Work Experience
 
-#### Associate Data Analyst @ IDFC FIRST Bank, Mumbai
-Duration: Jul '23 - Present\
-Motivation: Solving business problems using Data Science in the financial capital of India!
+### IDFC FIRST Bank, Mumbai
+
+Developed ML models and analytical strategies for solving business problems (Collection Analytics) at the bank HQs in the financial capital of India
+
+#### Data Analyst
+Duration: Jul '25 - Present\
+
+#### Associate Data Analyst
+Duration: Jul '23 - Jun '25\
+
 #### Research Assistant @ C-MInDS, IIT Bombay
 Duration: May '22 - Jun '23\
 Motivation: Taking the initiative to perform novel interdisciplinary research in AI!
