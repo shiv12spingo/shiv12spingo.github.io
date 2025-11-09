@@ -7,17 +7,26 @@ title: Experiences
 
 ### IDFC FIRST Bank, Mumbai
 
-Developed ML models and analytical strategies for solving business problems (Collection Analytics) at the bank HQs in the financial capital of India
-
 #### Data Analyst
-Duration: Jul '25 - Present\
+Duration: Jul '25 - Present
 
 #### Associate Data Analyst
-Duration: Jul '23 - Jun '25\
+Duration: Jul '23 - Jun '25
 
-#### Research Assistant @ C-MInDS, IIT Bombay
-Duration: May '22 - Jun '23\
-Motivation: Taking the initiative to perform novel interdisciplinary research in AI!
+Developed ML models and analytical strategies for solving business problems (Collection Analytics) at the bank HQs in the financial capital with regular interactions with stakeholders and presentations to the Executive Director.
+
+Tools: AWS (S3, EMR, SageMaker, CloudWatch), PySpark, Python, Jupyter, Airflow, Cloudera (CML, Hue, HDFS, Hive), Spyder, SAS, SQL, Bitbucket, Dremio, Excel, Powerpoint
+
+Models: XGBoost, Random Forest, Decision Tree, Logistic Regression, LSTM
+
+### Research Assistant @ C-MInDS, IIT Bombay
+Duration: May '22 - Jun '23
+
+Lab: Solidification and CoDeS (Computational and Data-enabled Simulations)
+
+Took the initiative to perform novel interdisciplinary AI research specifically in the field of Physics-Informed Neural Networks (PINNs) for solving complex problems by developing data-driven models incorporating process information
+
+Impact: Developed an improved methodology for solving moving boundary systems such as the binary alloy solidfication problem not solvable via conventional PINN approaches. Pre-print research article available on [arXiv](https://arxiv.org/abs/2409.10910).
 
 ### Internships  
 
