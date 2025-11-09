@@ -7,11 +7,9 @@ title: Experiences
 
 ### IDFC FIRST Bank, Mumbai
 
-#### Data Analyst
-Duration: Jul '25 - Present
+**Data Analyst** (Jul '25 - Present)
 
-#### Associate Data Analyst
-Duration: Jul '23 - Jun '25
+**Associate Data Analyst** (Jul '23 - Jun '25)
 
 Developed ML models and analytical strategies for solving business problems (Collection Analytics) at the bank HQs in the financial capital with regular interactions with stakeholders and presentations to the Executive Director.
 
